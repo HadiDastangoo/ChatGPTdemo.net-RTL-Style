@@ -64,5 +64,5 @@ html.dark .chat-content li > ul {
 	direction: rtl;
 }
 #input-chat {
-	padding: 5px !important;
+	padding: 5px 65px 5px !important;
 }
