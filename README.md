@@ -1,7 +1,7 @@
 # ChatGPTdemo.net RTL Style
 Right to left style for [ChatGPTdemo.net](https://ChatGPTdemo.net)
 
-This is a minimal CSS style for the [BAI Chat](https://chatbot.theb.ai/) Chatbot in RTL format (Farsi, Arabic, Hebrew &amp; etc.). (It also does not mess up "Code" styling!)
+This is a minimal CSS style for the [ChatGPTdemo.net](https://ChatGPTdemo.net) Chatbot in RTL format (Farsi, Arabic, Hebrew &amp; etc.). (It also does not mess up "Code" styling!)
 
 ## Usage
 Simple! Depend on your browser, You can use one of these plugins/extensions to inject [raw CSS link](https://raw.githubusercontent.com/HadiDastangoo/ChatGPTdemo.net-RTL-Style/main/style.css) or [Inject CSS code](https://github.com/HadiDastangoo/ChatGPTdemo.net-RTL-Style/blob/main/style.css):
@@ -14,7 +14,7 @@ Respectfully to Saber Rastikerdar, This style uses the [VAZIRMATN](https://githu
 &nbsp;
 &nbsp;
 ## استایل راست به چپ برای چت‌بات ChatGPTdemo.net (راهنمای فارسی)
-این، چند خط استایل CSS برای چت‌بات [BAI Chat](https://chatbot.theb.ai/) است برای کسانی که می‌خواهند به زبان‌های راست به چپ (فارسی، عربی، عبری و ...) با این چت‌بات گفتگو کنند.
+این، چند خط استایل CSS برای چت‌بات [ChatGPTdemo.net](https://ChatGPTdemo.net) است برای کسانی که می‌خواهند به زبان‌های راست به چپ (فارسی، عربی، عبری و ...) با این چت‌بات گفتگو کنند.
 
 ### طریقه استفاده
 بسیار ساده! کافی است بسته به نوع مرورگرتان، از یکی از افزونه‌های زیر جهت [استفاده مستقیم از فایل CSS](https://raw.githubusercontent.com/HadiDastangoo/ChatGPTdemo.net-RTL-Style/main/style.css) و یا [اضافه‌کردن کدهای CSS](https://github.com/HadiDastangoo/ChatGPTdemo.net-RTL-Style/blob/main/style.css) استفاده کنید:
